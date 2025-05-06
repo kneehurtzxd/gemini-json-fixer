@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Gemini JSON Wrapper – Highlight-Safe, Debounced, Final Form
+// @name         Gemini JSON Wrapper – Highlight-Safe
 // @namespace    http://tampermonkey.net/
 // @version      3.0
 // @description  Unwraps Gemini JSON, soft-fixes \\n, preserves highlight
